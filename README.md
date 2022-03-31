@@ -10,4 +10,6 @@ I also added in a new method with parameters as well as creating appropiate cond
 
 3/29: Reading up on new Java content, will make changes tmw. Thanks.
 
+3/30 - Once I reach ArrayList content I will make edits to those two arrays and possibly a scanner class, other than that minor changes major ones will come in the last few days once I am finished reviewing my java background knowledge.
+
 04/02 - End date

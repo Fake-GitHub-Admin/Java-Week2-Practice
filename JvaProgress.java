@@ -1,18 +1,18 @@
-//Read Me: There is a concern of not being able to add in elements to a normal array 3/29, look into it and see if ArrayList better option
-//If this issue is confirmed to be true it will be a problem to that empty array in the bothLists() method
+import java.util.ArrayList;
 public class JvaProgress {
    //convert this from main task to a side task
    //all methods are automatically public btw
    static void bothLists() 
       {
-         System.out.println("Java Code Progress as of 3/30/2022");
-         String[] violatorsList = {};
+         System.out.println("Java Code Progress as of 3/31/2022");
+         //String[] violatorsList = {};
          String[] nonviolatorsList = {};
+         ArrayList<String> violatorsList = new ArrayList<String>();
       
       
       //This two are going to help me print out what is in those two arrays at line 2 and line 3
       //Side Note: Combined for loop is for multidimensional arrays, don't forget to seperate them
-      for (var i = 0; i < violatorsList.length; i++) 
+      for (var i = 0; i < violatorsList.size(); i++) 
          {
             System.out.println(i);
          }

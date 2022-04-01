@@ -12,4 +12,6 @@ I also added in a new method with parameters as well as creating appropiate cond
 
 3/30 - Once I reach ArrayList content I will make edits to those two arrays and possibly a scanner class, other than that minor changes major ones will come in the last few days once I am finished reviewing my java background knowledge.
 
+3/31 -  Testing out the ArrayList code, however there is this issue that it is not recognizing the already defined arrayList. It could be a scope problem as I am trying to access it in a different method, however all methods are auto public. Plan on addressing this tommorow. Side note for the arrayList to work as well I needed to import the pakage, and change a few things like violatorsList.length to violatorsList.size().
+
 04/02 - End date

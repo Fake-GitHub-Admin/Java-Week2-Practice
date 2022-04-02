@@ -14,4 +14,6 @@ I also added in a new method with parameters as well as creating appropiate cond
 
 3/31 -  Testing out the ArrayList code, however there is this issue that it is not recognizing the already defined arrayList. It could be a scope problem as I am trying to access it in a different method, however all methods are auto public. Plan on addressing this tommorow. Side note for the arrayList to work as well I needed to import the pakage, and change a few things like violatorsList.length to violatorsList.size().
 
+04/01 - Bad Fever today, not feeling too good. Will Update tommorow 
+
 04/02 - End date

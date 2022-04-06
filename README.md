@@ -16,4 +16,8 @@ I also added in a new method with parameters as well as creating appropiate cond
 
 04/01 - Bad Fever today, not feeling too good. Will Update tommorow 
 
-04/02 - End date
+04/02 - End date (**Changed**)
+
+04/05 - I was able to create the ArrayList, I commented out the old System.out method call single person technique and focused on just printing what has been added into the arraylist in this file called TestRandom.java. Take a look, there is some issue whereby its not printing out a combined list together instead seperately like a loop. I will look into it making final revisions tommorow. I was sick for the past three days had to rest for quite a bit. 
+
+04/06 - Final End Date

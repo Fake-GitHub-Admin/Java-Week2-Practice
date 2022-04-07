@@ -36,4 +36,4 @@ JvaProgress Screenshot Result (Screenshot) -  Is just a classic conditional simp
 
 TestRandom Screenshot Result (Screenshot) - Is the add in arraylist of the people and single method print
 
-TestRandomPart2 Screenshot Result (Screenshot) - Is the for loop style print out of the people added into the arraylist
+TestRandomPartTwo Screenshot Result (Screenshot) - Is the for loop style print out of the people added into the arraylist

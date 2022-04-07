@@ -20,4 +20,11 @@ I also added in a new method with parameters as well as creating appropiate cond
 
 04/05 - I was able to create the ArrayList, I commented out the old System.out method call single person technique and focused on just printing what has been added into the arraylist in this file called TestRandom.java. Take a look, there is some issue whereby its not printing out a combined list together instead seperately like a loop. I will look into it making final revisions tommorow. I was sick for the past three days had to rest for quite a bit. 
 
-04/06 - Final End Date
+04/06 - Aight so was able to in a way put it next together, and it seems like I had no other choice, other method was that for loop + System.print.ln(i) style which was doing it like a list but it would assign the accurate string like "tested Negative on test for Criminals" for the subjects. So what I did today was just add in the elements and just use this style 
+ System.out.println(violatorsList);
+ System.out.println(nonviolatorsList);
+ 
+ 
+ Not much of a difference but I guess whichever is preffered. Nice Jorney though that has come to an end. 
+ 
+Will upload screenshots of the console in case you can't run my codes for some reason.
